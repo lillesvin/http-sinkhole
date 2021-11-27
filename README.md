@@ -5,13 +5,13 @@ Simple tool to just dump the headers and bodies of incoming HTTP requests on std
 ## Installation
 
 ```
-go get github.com/lillesvin/http-sinkhole@v0.1
+go get github.com/lillesvin/http-sinkhole@v0.1.0
 ```
 
 ## Usage
 
 ```
-$ http-sinkhole [-p INT]
+http-sinkhole [-p INT]
 ```
 
 Will listen for incoming requests on whatever port you specified with `-p` (default: 1234).
