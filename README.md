@@ -5,7 +5,7 @@ Simple tool to just dump the headers and bodies of incoming HTTP requests on std
 ## Installation
 
 ```
-go get github.com/lillesvin/http-sinkhole@v0.1.0
+go get github.com/lillesvin/http-sinkhole@v0.1.1
 ```
 
 ## Usage
